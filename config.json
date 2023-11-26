@@ -1,0 +1,33 @@
+{
+   "token": "",
+   "status": "online",
+   "mirrors": [
+      {
+         "use_webhook_profile": false,
+         "message_to_mirror_must_contain_embeds": false,
+         "channel_ids": [
+            "806523338797219860",
+            "742547014197313576",
+            "782718823488290826",
+            "774455258407370752",
+            "743173219971760180",
+            "944948242007883836",
+            "762435449909542942"
+         ],
+         "webhook_urls": [
+            "https://discord.com/api/webhooks/1093364656451616858/xSfarT5waB_whXUboEs5ie47dE42ajMWf7qy8DvxuJ56z8nRH4gY5JEHTewfCK5YJx0u"
+         ]
+      }
+   ],
+   "mentions": {
+      "INSERT_ORIGINAL_SERVER_ID_HERE": [
+         {
+            "original": "INSERT_ORIGINAL_MENTION_ID_HERE",
+            "replaced": "INSERT_REPLACED_MENTION_ID_HERE"
+         }
+      ]
+   },
+   "ignored_user_ids": [
+      "302929903219900429"
+   ]
+}
